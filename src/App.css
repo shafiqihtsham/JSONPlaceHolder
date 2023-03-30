@@ -1,0 +1,13 @@
+body {
+  background-image: url('../public/background.jpg');
+  background-size: auto;
+  background-repeat: no-repeat; 
+}
+
+#title {
+  color: black;
+  text-align: center;
+  margin-top: 12rem;
+  font-size: 60px;  
+}
+
