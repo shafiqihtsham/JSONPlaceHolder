@@ -12,14 +12,12 @@
   width: 25rem;
   height: 18rem;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
 }
 
 .card h1 {
   font-size: 24px;
   margin-bottom: 10px;
   text-decoration: underline;
-  
 }
 
 .card p span{
@@ -85,4 +83,19 @@
 
 #previous:hover{
   background-color: rgba(7, 19, 73, 0.2);
+}
+
+@media screen and (max-width: 500px) {
+  .card{
+    max-width: max-content;
+    max-height: max-content;
+    font-size: 14px;
+    margin-top: auto;
+  }
+
+  .card h1{
+    font-size: 18px;
+  }
+
+  
 }

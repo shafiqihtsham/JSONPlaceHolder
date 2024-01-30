@@ -7,7 +7,15 @@ body {
 #title {
   color: black;
   text-align: center;
-  margin-top: 12rem;
+  margin-top: 8rem;
   font-size: 60px;  
 }
 
+@media screen and (max-width: 500px) {
+  #title{
+    font-size: 30px;
+    margin: auto;
+    padding: 25%;
+    white-space: nowrap;
+  }
+}

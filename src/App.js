@@ -4,7 +4,7 @@ function App() {
   return (
     
     <div className="App">
-      <h1 id = "title">Your Contacts</h1>
+      <h1 id = "title">Contacts</h1>
         <Contacts/>
     </div>
   );
