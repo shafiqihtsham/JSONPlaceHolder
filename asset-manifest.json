@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JSONPlaceholder/static/css/main.ff8e328d.css",
-    "main.js": "/JSONPlaceholder/static/js/main.937dded0.js",
-    "static/js/787.97270632.chunk.js": "/JSONPlaceholder/static/js/787.97270632.chunk.js",
-    "static/media/background.jpg": "/JSONPlaceholder/static/media/background.487023a65fa15d0f8a38.jpg",
-    "index.html": "/JSONPlaceholder/index.html",
-    "main.ff8e328d.css.map": "/JSONPlaceholder/static/css/main.ff8e328d.css.map",
-    "main.937dded0.js.map": "/JSONPlaceholder/static/js/main.937dded0.js.map",
-    "787.97270632.chunk.js.map": "/JSONPlaceholder/static/js/787.97270632.chunk.js.map"
+    "main.css": "/JSONPlaceHolder/static/css/main.3cebb2e9.css",
+    "main.js": "/JSONPlaceHolder/static/js/main.c5479386.js",
+    "static/js/787.97270632.chunk.js": "/JSONPlaceHolder/static/js/787.97270632.chunk.js",
+    "static/media/background.jpg": "/JSONPlaceHolder/static/media/background.487023a65fa15d0f8a38.jpg",
+    "index.html": "/JSONPlaceHolder/index.html",
+    "main.3cebb2e9.css.map": "/JSONPlaceHolder/static/css/main.3cebb2e9.css.map",
+    "main.c5479386.js.map": "/JSONPlaceHolder/static/js/main.c5479386.js.map",
+    "787.97270632.chunk.js.map": "/JSONPlaceHolder/static/js/787.97270632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff8e328d.css",
-    "static/js/main.937dded0.js"
+    "static/css/main.3cebb2e9.css",
+    "static/js/main.c5479386.js"
   ]
 }
